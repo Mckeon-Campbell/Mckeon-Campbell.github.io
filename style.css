@@ -1,6 +1,7 @@
 body {
   background-color: rgb(0, 0, 0);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 header{
     display: flex;
@@ -16,6 +17,9 @@ h3{
     color: antiquewhite;
 }
 h4{
+    color: antiquewhite;
+}
+li{
     color: antiquewhite;
 }
 p {

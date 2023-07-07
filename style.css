@@ -21,6 +21,7 @@ h4{
 }
 li{
     color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 .flex-container{
     display: flex;
